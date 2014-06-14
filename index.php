@@ -20,7 +20,6 @@ class Replace_Google_Libs
 
     /**
      * init Hook
-     *
      */
     public function __construct()
     {
@@ -30,9 +29,6 @@ class Replace_Google_Libs
 
     /**
      * Use Qihoo 360 Open Libs Service to replace Google's.
-     *
-     * @param $text
-     * @return mixed
      */
     public function ohMyScript()
     {
